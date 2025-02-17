@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+fraud:
+  label: Fraud
+  permalink: /fraud
+  description: Fraud
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+embezzlement:
+  label: Embezzlement
+  permalink: /embezzlement
+  description: Embezzlement
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+kickbacks:
+  label: Kickbacks
+  permalink: /kickbacks
+  description: Kickbacks
