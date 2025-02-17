@@ -93,14 +93,6 @@ const config: Config = {
               label: 'Start',
               to: '/docs/intro',
             },
-            {
-              label: 'Concepts',
-              to: '/docs/concepts',
-            },
-            {
-              label: 'Schemes',
-              to: '/docs/schemes',
-            },
           ],
         },
         {
@@ -117,15 +109,24 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'What',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Concepts',
+              to: '/docs/concepts',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/jimmiebfulton/emlo',
+              label: 'Schemes',
+              to: '/docs/schemes',
+            },
+          ],
+        },
+        {
+          title: 'When',
+          items: [
+            {
+              label: 'Timeline',
+              to: '/docs/timeline',
             },
           ],
         },
