@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
@@ -37,10 +37,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/jimmiebfulton/emlo/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -48,10 +44,6 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/jimmiebfulton/emlo/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -78,9 +70,12 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Start',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        { to: '/docs/concepts', label: 'Concepts', position: 'left' },
+        { to: '/docs/people', label: 'People', position: 'left' },
+        { to: '/docs/schemes', label: 'Schemes', position: 'left' },
+        { to: '/blog', label: 'Blog', position: 'right' },
         {
           href: 'https://github.com/jimmiebfulton/emlo',
           label: 'GitHub',
@@ -95,25 +90,29 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Start',
               to: '/docs/intro',
+            },
+            {
+              label: 'Concepts',
+              to: '/docs/concepts',
+            },
+            {
+              label: 'Schemes',
+              to: '/docs/schemes',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Who',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'People',
+              to: '/docs/people',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Vendors',
+              to: '/docs/vendors',
             },
           ],
         },
@@ -131,7 +130,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Jimmie Fulton.`,
     },
     prism: {
       theme: prismThemes.github,
