@@ -4,7 +4,7 @@
 
 This document spells out an apparent scheme, planned and executed over multiple
 years, to fabricate a need for unnecessary contract work under fraudulent
-pretenses for the purposes of generating a profit through [kickbacks/bribery] (/docs/concepts/kickbacks).
+pretenses for the purposes of generating a profit through [kickbacks/bribery](/docs/concepts/kickbacks).
 
 We seek to demonstrate the following:
 
