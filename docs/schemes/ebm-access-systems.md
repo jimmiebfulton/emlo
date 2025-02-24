@@ -24,7 +24,6 @@ We seek to demonstrate the following:
 - With [cooperation of](/docs/concepts/conspiracy):
   - Multiple board members across elections
   - Multiple vendors across contracts
-- Executed fraudulently
 - With intent to [generate recurring profit through fraudulent means](/docs/concepts/racketeering)
 - With a [guilty mind/consciousness of guilt](/docs/concepts/mens-rea)
 - with attempts to [conceal the acts and avoid discovery](/docs/concepts/overt-acts)
