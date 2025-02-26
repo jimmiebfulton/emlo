@@ -42,7 +42,7 @@ Based on information and belief, inspections should be approximately as follows:
 
 ### March 31, 2021
 
-This invoice, [2021-03-31 - Lynn Safety](https://www.dropbox.com/scl/fi/0jak7pfw53qbowv93cmz1/2021-03-31-First-Service-Scaffold-Inspection-Testing-Contract.pdf?rlkey=0qann7rnv3vsak7navd0eajlm&e=1&dl=0), while [First Service Residential](/vendors/first-service)
+This invoice, [2021-03-31 - Lynn Safety](https://www.dropbox.com/scl/fi/0jak7pfw53qbowv93cmz1/2021-03-31-First-Service-Scaffold-Inspection-Testing-Contract.pdf?rlkey=0qann7rnv3vsak7navd0eajlm&e=1&dl=0), while [First Service Residential](/docs/vendors/first-service)
 was our property manager, shows a bill for $13,000.
 
 <figure>
@@ -64,7 +64,7 @@ was our property manager, shows a bill for $13,000.
 ### June 01, 2022
 
 This proposal, [2022-06-01 Lynn Safety](https://www.dropbox.com/scl/fi/nwwtpbyakoy2x4om4l14c/2022-06-01-Lynn-Safety-Quote-Code-Compliance-Failure-Remediation-Proposal.pdf?rlkey=p26gr8f4v3oduy114zs2gw15t&dl=0), initiated by
-[Bohan](/docs//vendors/bohan) property management, says that
+[Bohan](/docs/vendors/bohan) property management, says that
 we have failed Code Compliance inspections, and Lynn Safety is proposing
 $81,000 to remedy this.
 
