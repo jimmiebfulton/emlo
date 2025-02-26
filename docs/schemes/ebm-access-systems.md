@@ -38,14 +38,11 @@ Based on information and belief, inspections should be approximately as follows:
 - Annual: $1000
 - 5 Year: $5000
 
-### Questions
-
-- Please provide a schedule of the years we have 5 year inspections.
-  - For instance, do they happen on years ending with 0 and 5, 2 and 7, etc?
-
 ## Timeline
 
-This invoice, [2021-03-31 - Lynn Safety](https://www.dropbox.com/scl/fi/0jak7pfw53qbowv93cmz1/2021-03-31-First-Service-Scaffold-Inspection-Testing-Contract.pdf?rlkey=0qann7rnv3vsak7navd0eajlm&e=1&dl=0), while First Service Residential
+### March 31, 2021
+
+This invoice, [2021-03-31 - Lynn Safety](https://www.dropbox.com/scl/fi/0jak7pfw53qbowv93cmz1/2021-03-31-First-Service-Scaffold-Inspection-Testing-Contract.pdf?rlkey=0qann7rnv3vsak7navd0eajlm&e=1&dl=0), while [First Service Residential](/vendors/first-service)
 was our property manager, shows a bill for $13,000.
 
 <figure>
@@ -53,28 +50,35 @@ was our property manager, shows a bill for $13,000.
 <figcaption>Lynn Safety Contract</figcaption>
 </figure>
 
-### Observations
+#### Observations
 
-- It is unclear whether this is an Annual or 5-Year Inspection. In any case,
-  the amount is multiple times what it should be.
+- Based on other timeline facts, this appears to be a contract for an annual
+  inspection, as opposed to a 5-year inspection, which should cost more
 - First Service Residential has, at a previous association, provided me with:
   - Falsified Bank Records
   - Financial Records with modified and removed entries
-  - Has admitted in writing to significantly and "accidentally" overpaid
-    vendor by hundreds of thousands of dollars.
+  - Has admitted in writing to significantly overpaying vendor by hundreds of
+    thousands of dollars, and never recovering those overpaid amounts.
+- The board allowed this vendor to grossly overcharge for their services.
 
-### Inferences
+### June 01, 2022
 
-- Our board allowed an excessive amount be paid for this invoice at the hands of
-  a property management company known to me to engage in fraud.
+This proposal, [2022-06-01 Lynn Safety](https://www.dropbox.com/scl/fi/nwwtpbyakoy2x4om4l14c/2022-06-01-Lynn-Safety-Quote-Code-Compliance-Failure-Remediation-Proposal.pdf?rlkey=p26gr8f4v3oduy114zs2gw15t&dl=0), initiated by
+[Bohan](/docs//vendors/bohan) property management, says that
+we have failed Code Compliance inspections, and Lynn Safety is proposing
+$81,000 to remedy this.
 
-## June 2022
+<figure>
+![Lynn Safety Scope](/img/2022-06-01_lynnsafety_scope.png)
+<figcaption>Lynn Safety Scope</figcaption>
+</figure>
 
-This proposal, [2022-06-01 Lynn Safety](https://www.dropbox.com/scl/fi/nwwtpbyakoy2x4om4l14c/2022-06-01-Lynn-Safety-Quote-Code-Compliance-Failure-Remediation-Proposal.pdf?rlkey=p26gr8f4v3oduy114zs2gw15t&dl=0), while BanCal
-was our property manager, says that we have failed Code Compliance inspections,
-and Lynn Safety is proposing $81,000 to remedy this.
+<figure>
+![Lynn Safety Proposal](/img/2022-06-01_lynnsafety_estimate.png)
+<figcaption>Lynn Safety Estimate</figcaption>
+</figure>
 
-### Observations
+#### Observations
 
 - Failing an OSHA Code Compliance inspection is a serious issue
 - Any violations would be reported to OSHA, which would trigger timelines for
@@ -145,7 +149,7 @@ for many years, exceeding the time period for the previous 5-Year Inspection.
   get the $81,000 contract, and incurred more work than they have in the past.
   I believe both to be true.
   - Both myself, and OSHA, would like to know which one.
-- It is my current stance that BanCal and our onsite Property Manager Ryan
+- It is my current stance that BanCal and our on-site Property Manager Ryan
   O'Connor to be honest actors. Under their management, it is noteworthy that
   Lynn Safety bills were dramatically lower than under First Service
   Residential. It is also noteworthy that Ryan O'Connor called Lynn Safety
@@ -183,7 +187,7 @@ that the equipment he was measuring had a passing sticker on it.
   an inspection, and the time where Lynn Safety fraudulently asserted that we
   had failed inspections?
 - Why is it that the proposed repair work is far less expensive than from the
-  proposal in June 2022? What conditions changed? Did the equiment spontaneously
+  proposal in June 2022? What conditions changed? Did the equipment spontaneously
   get repaired, or is it that NOTHING has changed?
 - Why should we believe that this proposal is not also fraudulent, which I
   believe it is?
