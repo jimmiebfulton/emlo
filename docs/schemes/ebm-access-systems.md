@@ -20,7 +20,7 @@ We seek to demonstrate the following:
       - Persistence
     - Bringing on vendors willing to participate in:
       - Execution of the scheme
-      - Cover up/conceal the scheme
+      - Cover up/concealment of the scheme
 - With [cooperation of](/docs/concepts/conspiracy):
   - Multiple board members across elections
   - Multiple vendors across contracts
@@ -228,41 +228,3 @@ that can be provided are Passing Reports, and that there are not Failure Reports
 Acceptance of money or services in exchange for awarding contracts is called
 bribery, and kickbacks. This is not just a violation of civil code. This is
 a violation of criminal code, for which people can and do go to prison.
-
-This information puts Alex Noland in a very precarious position. I, and other,
-have sent communications expressing concerns of fraud that Mr. Noland is privy
-to. And now, I'm demonstrating detailed evidence that indicates that there is
-indeed fraud. It is reasonable to conclude that Alex Noland should have at
-least a suspicion of fraud being perpetrated by this board and it's vendors.
-It is then reasonable to conclude that if Alex Noland were to continue providing
-his services under these conditions, he may be party to a crime. The Crime-Fraud
-provision can pierce Attorney-Client privilege.
-
-A clear, cohesive response from you is critical, because if you can't explain
-this, I will feel justified in notifying the Bar Association of my concerns.
-And of course, law enforcement, and the media.
-
-For the honest board members: If there are three of you, you have the power to
-out-vote the other two, call meetings, remove officers from positions, fire
-attorneys, and initiate an audit. It is ESSENTIAL to distance yourselves from
-these activities, assume you are being lied to by our attorney, property
-management, Bruce, and Karen. These are very serious allegations, and it would
-be folly to make them carelessly. The fact that I make them so brazenly, with
-this much detail, should be a strong indicator that it is imperative that you
-take proactive steps to protect yourselves. It doesn't get better from here.
-
-## Where do we go from here?
-
-If this board attempts to sue, we counter sue for fraud, subpoena records, and
-force an audit, and have it all presented in a legal setting where you face
-a potential criminal referral. Or, we share this information with the association,
-initiate a recall, and take over the board, gain access to documents, and force
-an audit. Or, we take our evidence to the media, which will most certainly make
-for a VERY compelling story, and potentially gets the attention of law
-enforcement. Or we sue outright for fraud, in which case we subpoena for records
-and force an audit.
-
-There are no circumstances where you remain on this board. If you don't leave
-willingly, taking the off-ramp, we'll pull every lever necessary until you do.
-
-Be smart: Take the off-ramp.
