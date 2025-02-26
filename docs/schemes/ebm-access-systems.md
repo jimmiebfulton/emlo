@@ -114,7 +114,7 @@ $81,000 to remedy this.
 - Where was the money going to come from to pay for this? The slush fund
   created by over-budgeting Office Supplies and Miscellaneous?
 
-## August 2022
+### August 2022
 
 This notification, [2022-09-23 - Ryan O'Connor - 5 Year Inspection Notification](https://www.dropbox.com/scl/fi/oyy509xydq8idzdish9nb/2022-10-07-Lynn-Safety-Annual-Inspection-Quote.pdf?rlkey=xiv7e7em5widlbsngnaks3qw7&dl=0),
 indicates that we would be having a 5-Year Inspection, just a short 4 months
@@ -134,7 +134,7 @@ undertake expensive modifications to planters and infrastructure that were
 obstacles for testing the Safety Equipment. These obstructions have been there
 for many years, exceeding the time period for the previous 5-Year Inspection.
 
-### Inferences
+#### Inferences
 
 - The proposal from June 2022, with it's statement that we had failed
   inspections, was made fraudulently.
@@ -156,11 +156,11 @@ for many years, exceeding the time period for the previous 5-Year Inspection.
   a scam, while he was working with them, indicating he also believed the above
   assertions.
 
-### Questions
+#### Questions
 
 - You've got some serious explaining to do...
 
-## August 2024
+### August 2024
 
 This contract, [2024-08-05 - Lynn Safety - Proposal](https://www.dropbox.com/scl/fi/25y192796bu0wzr87uqxg/2024-08-05-Anchors-Contract-KJW-Executed.pdf?rlkey=wzvttdgx9798lmmjs4b50t6rf&dl=0), signed by Karen Wendell,
 is for approximately $20,000, once again, for assertions that we have failed
@@ -178,7 +178,7 @@ date of 2024. I don't believe inspections stickers are handed out for failed
 inspections. The gentleman measuring my equipment certainly had the knowledge
 that the equipment he was measuring had a passing sticker on it.
 
-### Questions
+#### Questions
 
 - Has an inspection failure been reported to OSHA? This can easily be verified.
   Go ahead and lie to me. I'll be checking your answers, or showing appropriate
@@ -195,7 +195,7 @@ that the equipment he was measuring had a passing sticker on it.
   you appear to be engage in fraud, or more likely, you're just engaged in
   fraud?
 
-## Conclusions
+### Conclusions
 
 Bruce, I'm certain you understand the gravity of this situation, and the
 importance of you providing a cohesive explanation that fully justifies the
