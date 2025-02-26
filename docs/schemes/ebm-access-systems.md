@@ -93,7 +93,7 @@ $81,000 to remedy this.
 - Lynn Safety stood to benefit significantly if they were awarded a contract
   for which they identified failures.
 
-### Questions
+#### Questions
 
 - Which testing date and invoice were these test failures identified under?
 - Do you have the test reports that show there were failures? I certainly hope
@@ -195,7 +195,7 @@ that the equipment he was measuring had a passing sticker on it.
   you appear to be engage in fraud, or more likely, you're just engaged in
   fraud?
 
-### Conclusions
+## Conclusions
 
 Bruce, I'm certain you understand the gravity of this situation, and the
 importance of you providing a cohesive explanation that fully justifies the
